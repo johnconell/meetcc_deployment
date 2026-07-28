@@ -1,0 +1,1 @@
+import{t as e}from"./axios-DyIbjV-M.js";var t={list:()=>e.get(`/roles`)};export{t};
