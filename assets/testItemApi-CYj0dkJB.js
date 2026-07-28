@@ -1,0 +1,1 @@
+import{t as e}from"./axios-DyIbjV-M.js";var t={list:t=>e.get(`/test-items`,{params:t}),get:t=>e.get(`/test-items/${t}`),create:t=>e.post(`/test-items`,t),update:(t,n)=>e.put(`/test-items/${t}`,n),delete:t=>e.delete(`/test-items/${t}`)};export{t};

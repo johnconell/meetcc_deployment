@@ -1,0 +1,1 @@
+import{t as e}from"./vendor-react-BJ3ByNh_.js";var t=e();function n({children:e}){return(0,t.jsx)(`div`,{className:`flex min-h-screen items-center justify-center bg-gray-100 p-4`,children:(0,t.jsx)(`div`,{className:`w-full max-w-md rounded-xl bg-white p-8 shadow-lg`,children:e})})}export{n as t};

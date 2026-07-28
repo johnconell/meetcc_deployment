@@ -1,0 +1,1 @@
+import{a as e,t}from"./vendor-react-BJ3ByNh_.js";var n=t();function r(){return(0,n.jsx)(e,{to:`/profile`,replace:!0})}export{r as default};

@@ -1,0 +1,1 @@
+import{t as e}from"./axios-DyIbjV-M.js";var t={list:(t={})=>e.get(`/examination-schedules`,{params:t}),get:t=>e.get(`/examination-schedules/${t}`),reschedule:(t,n)=>e.post(`/examination-registrations/${t}/reschedule`,n)};export{t};

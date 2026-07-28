@@ -1,0 +1,1 @@
+import{t as e}from"./axios-DyIbjV-M.js";var t={list:t=>e.get(`/users`,{params:t}),get:t=>e.get(`/users/${t}`),create:t=>e.post(`/users`,t),update:(t,n)=>e.put(`/users/${t}`,n),updateStatus:(t,n)=>e.patch(`/users/${t}/status`,{status:n}),disable:t=>e.delete(`/users/${t}`),enable:t=>e.patch(`/users/${t}/status`,{status:`active`})};export{t};
