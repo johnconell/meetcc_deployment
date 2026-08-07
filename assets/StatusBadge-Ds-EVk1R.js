@@ -1,1 +1,0 @@
-import{t as e}from"./vendor-react-BJ3ByNh_.js";import"./management-pages-Cz1olbLA.js";var t=e(),n={default:`mgmt-badge--default`,success:`mgmt-badge--success`,error:`mgmt-badge--error`,muted:`mgmt-badge--muted`};function r({children:e,variant:r=`default`}){return(0,t.jsx)(`span`,{className:`mgmt-badge ${n[r]||n.default}`,children:e})}export{r as t};

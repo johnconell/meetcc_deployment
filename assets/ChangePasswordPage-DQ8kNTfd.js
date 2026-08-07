@@ -1,0 +1,1 @@
+import{a as e,t}from"./vendor-react-CQSJK5tq.js";var n=t();function r(){return(0,n.jsx)(e,{to:`/profile`,replace:!0})}export{r as default};
